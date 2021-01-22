@@ -1,2 +1,2 @@
-# pygame_tetris
-Tetris made on python's pygame module.
+# pygames
+A collection of games made using python's pygame module
